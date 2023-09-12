@@ -9,3 +9,8 @@ var suma = platoprincipal+postre+entrada+bebida
 var igv = suma*0.18
 var total = suma+igv
 console.log("deveras pagar "+total)
+console.log(entrada)
+console.log(platoprincipal)
+console.log(postre)
+console.log(bebida)
+console.log("vuelva pronto")
